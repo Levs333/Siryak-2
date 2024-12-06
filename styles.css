@@ -1,0 +1,49 @@
+header{
+    background-color: black;
+}
+
+main {
+    text-align: centre;
+}
+
+header img{
+    width:100px;
+}
+
+nav a {
+    color:white;
+    padding: 30px 40px;
+    text-decoration: none;
+}
+main h1{
+    text-align:center;
+}
+
+main img{
+    
+    width:900px;
+
+    }
+    main text{
+        font-size: 950px;
+    }
+main p{
+        
+    font-size: 30px;
+    text-align:center;
+}
+    footer{
+        background-color: black;
+    }
+
+.imgsmol{
+    width:200px;
+}
+
+.smol{
+    width:100px;
+}
+
+footer p{
+    text-align: center;
+}
